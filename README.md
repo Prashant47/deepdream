@@ -2,6 +2,8 @@
 
 Google unleashes the artificial neural network software tool
 [deepdream](https://github.com/google/deepdream) for generating images like
+![deepdream] (https://raw.githubusercontent.com/Prashant47/deepdream/master/img/nature2.jpg)
+![deepdream] (https://raw.githubusercontent.com/Prashant47/deepdream/master/img/sky.jpg)
 
 This project explains setting up Caffe, Python and all of the required dependencies fro deepdream. For caffe installation it uses CPU-only mode. 
 
