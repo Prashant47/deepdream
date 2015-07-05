@@ -1,14 +1,15 @@
-# deepdream
+# deepdream: Journey through layers of mind
+
+Google unleashes the artificial neural network software tool
+[deepdream](https://github.com/google/deepdream) for generating images like
+
+This project explains setting up Caffe, Python and all of the required dependencies fro deepdream. For caffe installation it uses CPU-only mode. 
 
 This repository contains IPython Notebook with sample code, complementing 
 Google Research [blog post](http://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html) about Neural Network art.
 
-You can view "dream.ipynb" directly on github, or clone the repository, 
-install dependencies listed in the notebook and play with code locally.
 
-It'll be interesting to see what imagery people are able to generate using the described technique. If you post images to Google+, Facebook, or Twitter, be sure to tag them with **#deepdream** so other researchers can check them out too.
-
-
+## Original Authors
 Alexander Mordvintsev <moralex@google.com>
 Michael Tyka <mtyka@google.com>
 Christopher Olah <colah@google.com>
